@@ -28,7 +28,7 @@ int binarySearch(int toSearch, vector<int> nums) {
     for (int i=0; i < size; i++) cout << nums[i] << " ";
     cout << "\n";
 
-    // here is the start of main logic of bs
+    // here is the start of main logic of bs..
     int left = 0;
     int right = size - 1;
     
